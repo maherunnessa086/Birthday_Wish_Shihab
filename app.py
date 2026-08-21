@@ -23,7 +23,7 @@ LEFT_COUNTRY_DATE = date(2022, 12, 12)
 UNIVERSITY_NAME = "University of Georgia"
 COUNTRY_NAME = "USA"
 
-ASSETS_DIR = Path("assets")
+ASSETS_DIR = Path("Shihab")
 
 
 # =========================================================
